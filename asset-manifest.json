@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Foodie/static/css/main.42300d1c.css",
+    "main.js": "/Foodie/static/js/main.4627566a.js",
+    "static/media/home-banner-image.png": "/Foodie/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/Foodie/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/home-banner-background.png": "/Foodie/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/Foodie/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/Foodie/index.html",
+    "main.42300d1c.css.map": "/Foodie/static/css/main.42300d1c.css.map",
+    "main.4627566a.js.map": "/Foodie/static/js/main.4627566a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42300d1c.css",
+    "static/js/main.4627566a.js"
+  ]
+}
